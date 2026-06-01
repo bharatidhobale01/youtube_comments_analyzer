@@ -32,34 +32,6 @@ Additionally, the project includes:
 
 ---
 
-## **Setup Instructions**
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YourUsername/youtube-comments-analyzer.git
-```
-
-### 2️⃣ Navigate to the Project Directory
-```bash
-cd youtube-comments-analyzer
-```
-
-### 3️⃣ Install Dependencies
-```bash
-npm install
-```
-
-### 4️⃣ Start the Application
-```bash
-node app.js
-```
-
-### 5️⃣ Access the Application
-Open your browser and navigate to:  
-[http://localhost:3044](http://localhost:3044)
-
----
-
 ## **How It Works**
 
 1. **Analyze Comments**
